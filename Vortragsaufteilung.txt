@@ -1,6 +1,7 @@
 (Janis: Scraping / George: API) Data collection using both, Web Scraping and a Web API.
 (Janis) Data preparation (e.g. remove missing values and duplicates, create new variables, enrich the data with open data).
 (Janis) Integration and visualization of geographical data.
+(Janis) kontrolle Roter Faden
 (George) Data storage in a database like sqlite or MySQL.
 (George) Use of a MySQL database for data storage and SQL-queries from within Python.
 (George) Non-graphical and graphical exploratory data analysis (EDA).
